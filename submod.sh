@@ -1,3 +1,4 @@
+#!/bin/bash
 git submodule add https://github.com/zikaofile/00023.git 00023
 git submodule add https://github.com/zikaofile/02324.git 02324
 git submodule add https://github.com/zikaofile/06627.git 06627
