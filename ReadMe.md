@@ -5,6 +5,7 @@
 - 文件命名均使用  【课程代码+课程名.后缀】 组成
 - 欢迎大家fork 并提交PR
 - 如不会使用git，可将资料发送邮箱zikaofile@163.com，我会第一时间将资料同步到本库
+- 
 ## 课程
 
 - [00023 高等数学](https://github.com/zikaofile/00023)
@@ -23,3 +24,6 @@
 - [15040 习近平新时代中国特色社会主义思想概论](https://github.com/zikaofile/15040)
 - [15043 中国近代史纲要](https://github.com/zikaofile/15043)
 - [15044 马克思主义基本原理](https://github.com/zikaofile/15044)
+## TODO
+- 后续将历年真题成anki知识库。
+- 将考试大纲对应的考点做成anki知识库
